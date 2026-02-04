@@ -1,0 +1,26 @@
+[user]
+	email = psse4ssp@gmail.com
+	name = Kaydarov Pavel
+
+[pull]
+	rebase = true
+
+[column]
+	ui = auto
+
+[branch]
+	sort = -committerdate
+
+[core]
+	editor = vim
+
+[alias]
+	st = status
+	br = branch
+	cm = commit
+	cr = switch -c
+	sw = switch
+
+[includeIf "gitdir:~/Develop/work/"]
+	path = ~/Develop/work/.gitconfig
+
