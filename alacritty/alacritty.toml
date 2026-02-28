@@ -5,6 +5,7 @@ import = [
 
 [window]
 opacity = 0.9
+startup_mode = "Fullscreen"
 blur=true
 
 [window.padding]
