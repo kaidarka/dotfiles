@@ -8,6 +8,8 @@
     "source.fixAll.eslint": "explicit",
     "source.fixAll.stylelint": "explicit"
   },
+  "editor.fontFamily": "'JetBrains Mono', 'Droid Sans Mono', 'monospace', monospace",
+  "workbench.colorTheme": "Cursor Dark Midnight",
   //
   // JS
   //
